@@ -12,8 +12,6 @@ This dashboard provides valuable business insights by transforming raw coffee sh
 
 ## 📊 Dashboard Preview
 
-> Add your dashboard screenshot here.
-
 ![Coffee Shop Sales Dashboard](Screenshot%202024-02-15%20143928.png)
 
 ---
